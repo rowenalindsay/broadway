@@ -18,3 +18,27 @@ nav {
 li {
   padding: 5px;
 }
+
+.container {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.container h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.container h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.container p {
+  font-size: 14px;
+}
+
+#new-york {
+  color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
